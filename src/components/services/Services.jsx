@@ -106,7 +106,9 @@ const Services = () => {
             showcasing the power of backend frameworks like Node.js and
             Express.js .
           </p>
-          <button>Go</button>
+          <button>
+            <a href="https://backened-projects.netlify.app/">Projects</a>
+          </button>
         </motion.div>
       </motion.div>
     </motion.div>
